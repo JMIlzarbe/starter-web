@@ -11,3 +11,8 @@ Cambios commiteados pero no pusheados.
 Cambios añadidos al staging area pero no commiteados.
 
 Cambios en working directory pero sin añadir al staging area.
+
+
+### Copyright
+
+2020 Git.Training.
